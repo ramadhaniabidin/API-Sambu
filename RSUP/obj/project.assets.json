@@ -14,29 +14,6 @@
             "related": ".xml"
           }
         }
-      },
-      "PSKE/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/PSKE.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/PSKE.dll": {}
-        }
-      },
-      "RSUP/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Newtonsoft.Json": "13.0.3"
-        },
-        "compile": {
-          "bin/placeholder/RSUP.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/RSUP.dll": {}
-        }
       }
     }
   },
@@ -70,22 +47,11 @@
         "newtonsoft.json.nuspec",
         "packageIcon.png"
       ]
-    },
-    "PSKE/1.0.0": {
-      "type": "project",
-      "path": "../PSKE/PSKE.csproj",
-      "msbuildProject": "../PSKE/PSKE.csproj"
-    },
-    "RSUP/1.0.0": {
-      "type": "project",
-      "path": "../RSUP/RSUP.csproj",
-      "msbuildProject": "../RSUP/RSUP.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "PSKE >= 1.0.0",
-      "RSUP >= 1.0.0"
+      "Newtonsoft.Json >= 13.0.3"
     ]
   },
   "packageFolders": {
@@ -94,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ramad\\OneDrive\\Documents\\Belajar\\Console App\\API-Sambu\\API-Sambu\\API-Sambu.csproj",
-      "projectName": "API-Sambu",
-      "projectPath": "C:\\Users\\ramad\\OneDrive\\Documents\\Belajar\\Console App\\API-Sambu\\API-Sambu\\API-Sambu.csproj",
+      "projectUniqueName": "C:\\Users\\ramad\\OneDrive\\Documents\\Belajar\\Console App\\API-Sambu\\RSUP\\RSUP.csproj",
+      "projectName": "RSUP",
+      "projectPath": "C:\\Users\\ramad\\OneDrive\\Documents\\Belajar\\Console App\\API-Sambu\\RSUP\\RSUP.csproj",
       "packagesPath": "C:\\Users\\ramad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ramad\\OneDrive\\Documents\\Belajar\\Console App\\API-Sambu\\API-Sambu\\obj\\",
+      "outputPath": "C:\\Users\\ramad\\OneDrive\\Documents\\Belajar\\Console App\\API-Sambu\\RSUP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ramad\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -114,14 +80,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "C:\\Users\\ramad\\OneDrive\\Documents\\Belajar\\Console App\\API-Sambu\\PSKE\\PSKE.csproj": {
-              "projectPath": "C:\\Users\\ramad\\OneDrive\\Documents\\Belajar\\Console App\\API-Sambu\\PSKE\\PSKE.csproj"
-            },
-            "C:\\Users\\ramad\\OneDrive\\Documents\\Belajar\\Console App\\API-Sambu\\RSUP\\RSUP.csproj": {
-              "projectPath": "C:\\Users\\ramad\\OneDrive\\Documents\\Belajar\\Console App\\API-Sambu\\RSUP\\RSUP.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -133,6 +92,12 @@
     "frameworks": {
       "net6.0": {
         "targetAlias": "net6.0",
+        "dependencies": {
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[13.0.3, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

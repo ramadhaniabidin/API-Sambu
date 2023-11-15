@@ -1,0 +1,12 @@
+C:\Users\ramad\OneDrive\Documents\Belajar\Console App\API-Sambu\RSUP\bin\Debug\net6.0\RSUP.deps.json
+C:\Users\ramad\OneDrive\Documents\Belajar\Console App\API-Sambu\RSUP\bin\Debug\net6.0\RSUP.dll
+C:\Users\ramad\OneDrive\Documents\Belajar\Console App\API-Sambu\RSUP\bin\Debug\net6.0\RSUP.pdb
+C:\Users\ramad\OneDrive\Documents\Belajar\Console App\API-Sambu\RSUP\obj\Debug\net6.0\RSUP.csproj.AssemblyReference.cache
+C:\Users\ramad\OneDrive\Documents\Belajar\Console App\API-Sambu\RSUP\obj\Debug\net6.0\RSUP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramad\OneDrive\Documents\Belajar\Console App\API-Sambu\RSUP\obj\Debug\net6.0\RSUP.AssemblyInfoInputs.cache
+C:\Users\ramad\OneDrive\Documents\Belajar\Console App\API-Sambu\RSUP\obj\Debug\net6.0\RSUP.AssemblyInfo.cs
+C:\Users\ramad\OneDrive\Documents\Belajar\Console App\API-Sambu\RSUP\obj\Debug\net6.0\RSUP.csproj.CoreCompileInputs.cache
+C:\Users\ramad\OneDrive\Documents\Belajar\Console App\API-Sambu\RSUP\obj\Debug\net6.0\RSUP.dll
+C:\Users\ramad\OneDrive\Documents\Belajar\Console App\API-Sambu\RSUP\obj\Debug\net6.0\refint\RSUP.dll
+C:\Users\ramad\OneDrive\Documents\Belajar\Console App\API-Sambu\RSUP\obj\Debug\net6.0\RSUP.pdb
+C:\Users\ramad\OneDrive\Documents\Belajar\Console App\API-Sambu\RSUP\obj\Debug\net6.0\ref\RSUP.dll

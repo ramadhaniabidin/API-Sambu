@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33801.468
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API-Sambu", "API-Sambu\API-Sambu.csproj", "{094E515E-F4CD-4B3A-A1A7-8ADC54A90CEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API-Sambu", "API-Sambu\API-Sambu.csproj", "{094E515E-F4CD-4B3A-A1A7-8ADC54A90CEC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PSKE", "PSKE\PSKE.csproj", "{8A50149C-25FE-46DA-B4BA-24B19D1A36F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSUP", "RSUP\RSUP.csproj", "{FA4C3F85-8003-48A1-A600-98B6F8AFEAC3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{094E515E-F4CD-4B3A-A1A7-8ADC54A90CEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{094E515E-F4CD-4B3A-A1A7-8ADC54A90CEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{094E515E-F4CD-4B3A-A1A7-8ADC54A90CEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A50149C-25FE-46DA-B4BA-24B19D1A36F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A50149C-25FE-46DA-B4BA-24B19D1A36F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A50149C-25FE-46DA-B4BA-24B19D1A36F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A50149C-25FE-46DA-B4BA-24B19D1A36F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA4C3F85-8003-48A1-A600-98B6F8AFEAC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA4C3F85-8003-48A1-A600-98B6F8AFEAC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA4C3F85-8003-48A1-A600-98B6F8AFEAC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA4C3F85-8003-48A1-A600-98B6F8AFEAC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

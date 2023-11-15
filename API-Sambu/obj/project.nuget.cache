@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "2Q5tb3cyyfeaMCFe/cw/Bsig4ZofseRmA7I31GfOaqiCuyYhaEqx94xT+vwvoLIQoS/T5opgm5+kuqSS4GvA7A==",
+  "dgSpecHash": "AoIYXg+Mv11wpTYL8j8ndtppAw8QEHCoHiwo1bSfbhMClZCGqhkZJep2VGPh/o/7idSBLP3+kI4IXdaikEIfgg==",
   "success": true,
   "projectFilePath": "C:\\Users\\ramad\\OneDrive\\Documents\\Belajar\\Console App\\API-Sambu\\API-Sambu\\API-Sambu.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ramad\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
